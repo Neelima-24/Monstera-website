@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@600&family=Lato&family=Montserrat:wght@500&family=Mukta:wght@200&family=Nunito:wght@600&family=Poppins:wght@300&family=Source+Sans+Pro&display=swap');  
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@600&family=Lato&family=Montserrat:wght@500&family=Mukta:wght@200&family=Nunito:wght@900&family=Poppins:wght@300&family=Secular+One&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@600&family=Kanit:wght@900&family=Lato&family=Montserrat:wght@500&family=Mukta:wght@200&family=Nunito:wght@900&family=Poppins:wght@300&family=Secular+One&family=Source+Sans+Pro&display=swap');
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "lato";
+}
+  
+  #navbarMonstera {
+    
+    display: flex;
+    justify-content:space-between;
+    margin-top: 25px;
+  } 
+  
+  /* ----------------------------------- */
+  /* ------------- NAVBAR -------------- */
+  /* ----------------------------------- */
+  
+  #navFirst {
+  
+    margin-left: 60px ;
+    margin-top: 60px;
+  }
+  
+  #navMid {
+    
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    justify-content: space-between;
+    font-size: 23px;
+  } 
+  
+
+  #navEnd {
+   margin-top: 65px; 
+   margin-right: 50px; 
+    display: flex;
+    gap: 40px;
+  }
+  
+
+  .left-monstera{
+    margin-left: 70px;
+    margin-top: 70px;
+  }
+
+  #monstera{
+    font-size: 130px; 
+   font-family: "kanit";
+   cursor: pointer;    
+}
+
+  .lorem1 {
+    font-family: "nunito";
+    font-size: 20px; 
+  }
+  
+  .lorem2 {
+    font-family: "nunito";
+    font-size: 20px;
+
+  } 
+
+  #midWholePart121{
+    margin-top: 50px;
+    width: 300px;
+    border-radius: 40px;
+    background-color: rgba(42, 94, 42, 0.76);
+    padding:20px;
+    margin-left: 150px; 
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    color: #ffffff;
+  }
+
+  #midWholePart122{
+  margin-top: 7px;
+  margin-left: 20px;
+ } 
+
+ #midWholePart13{
+        display: flex;
+        margin-bottom: 10px; 
+  }
+
+  .midWholePart13Parts{
+display: flex;
+justify-content: center;
+margin-right: 20px;
+margin-top: 40px;
+
+  }
+.midWholePart13Parts h4{
+  font-size: 25px;
+
+  
+}
+.midWholePart13Parts p{
+  font-size: 15px;
+  color: grey;
+}
+
+
+#imgMain{
+  position: absolute; 
+bottom: 0;
+right: 0;
+height: 650px;
+width: 600px;
+
+}
+
